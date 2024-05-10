@@ -24,7 +24,7 @@ This project aims to perform sentiment analysis on Twitter data using machine le
 #### Model Evaluation:
 - Evaluate the trained model's performance using metrics like accuracy, precision, recall, and F1-score.
 #### Deployment:
-- Deploy the trained model using Streamlit or any other web framework for real-time sentiment analysis.
+- Deployed the trained model using Streamlit for real-time sentiment analysis.
 
 ## Acknowledgements
 - Dataset: Twitter Sentiment Analysis Dataset from Kaggle
